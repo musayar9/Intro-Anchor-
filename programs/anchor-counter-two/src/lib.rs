@@ -1,6 +1,6 @@
 use anchor_lang::prelude::*;
 
-declare_id!("2pHHxrFzCqXdiNVqL4Noi25Q7tpnPnK9nMnkAxmYrF5U");
+declare_id!("BouTUP7a3MZLtXqMAm1NrkJSKwAjmid8abqiNjUyBJSr");
 
 #[program]
 pub mod anchor_counter_two {
